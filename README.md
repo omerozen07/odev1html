@@ -1,3 +1,3 @@
-# ODEV1HTML
-Hakkımda kısmı gelistirilerek yapılmıstır.
+# ÖDEV2 HTML
 
+Emet kullanılarak bilgiler yazıldı
