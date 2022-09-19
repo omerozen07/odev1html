@@ -1,3 +1,3 @@
-# ODEV1HTML
-Hakkımda kısmı yapılmıstır
+# ODEV2HTML
+Hakkımda kısmı gelistirilerek yapılmıstır.
 
